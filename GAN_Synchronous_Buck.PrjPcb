@@ -47,7 +47,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=0
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -89,7 +89,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=HHHMPUNP
 
 [Document4]
 DocumentPath=..\Libraries\component_libraries\Capacitors.SchLib
@@ -106,7 +106,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=IJQHDWPL
 
 [Document5]
 DocumentPath=..\Libraries\component_libraries\Connectors.PcbLib
@@ -225,7 +225,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=RNKOKLXB
 
 [Document12]
 DocumentPath=..\Libraries\component_libraries\Inductors.SchLib
@@ -242,7 +242,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=UJXSLROF
 
 [Document13]
 DocumentPath=..\Libraries\component_libraries\Integrated Circuits.PcbLib
@@ -310,7 +310,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=MNHBPGGH
 
 [Document17]
 DocumentPath=..\Libraries\component_libraries\Resistors.SchLib
@@ -327,7 +327,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=QWEWSAMJ
 
 [Document18]
 DocumentPath=..\Libraries\component_libraries\RF Components.PcbLib
@@ -464,6 +464,21 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
+
+[ProjectVariant1]
+UniqueID=039F17E2-AF5B-498E-89FB-CB49D300BDBC
+Description=DefaultConfig
+AllowFabrication=0
+ParameterCount=0
+VariationCount=7
+Variation1=Designator=R?|UniqueId=\MHIAWOWO|Kind=1|AlternatePart= 
+Variation2=Designator=R?|UniqueId=\RLZPLMKL|Kind=1|AlternatePart= 
+Variation3=Designator=C?|UniqueId=\KOVTHJCA|Kind=1|AlternatePart= 
+Variation4=Designator=C?|UniqueId=\LLDYISAU|Kind=1|AlternatePart= 
+Variation5=Designator=C?|UniqueId=\SQTDOGID|Kind=1|AlternatePart= 
+Variation6=Designator=C?|UniqueId=\RHCHSRJV|Kind=1|AlternatePart= 
+Variation7=Designator=C?|UniqueId=\LQOFGMWG|Kind=1|AlternatePart= 
+ParamVariationCount=0
 
 [Configuration1]
 Name=Sources
